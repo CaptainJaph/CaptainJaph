@@ -1,15 +1,8 @@
-### Hi, I'm Gideon 👋
-#### Technologies
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e8ff00?style=flat-square&logo=javascript&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-e5e5e5?style=flat-square&logo=express&logoColor=black" />
-</p>
+### Hi, I'm Japheth 👋
+#### Technical Operation/DevOps
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-0a3069?style=flat-square&logo=python&logoColor=yellow"/>
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/-Django-009603?style=flat-square&logo=django&logoColor=white"/>
 </p>
 
 <p>
@@ -20,41 +13,15 @@
 
 #### Contact me
 <p>
-  <a href="https://github.com/yeboah326" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://twitter.com/__kwameyeboah__" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/gideon-y-asante/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://github.com/CaptainJaph" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  
+  <a href="https://www.linkedin.com/in/Japheth Boateng/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
 
 #### About me
 😄 Pronouns: He/Him/Me
 
-🔭 I’m currently learning the MERN stack (MongoDB, Express, React, NodeJS)
-
+🔭 I’m currently learning Kubernetes and Docker work together to optimize container development, deployment, and management. 
 💻 Some stats about me
 
-<p>
-  
-  ![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeboah326&show_icons=true&theme=cobalt)
-    
-  [![Gideon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_ultron&count_private=true&theme=cobalt&langs_count=10)](https://github.com/yeboah326)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeboah326&lang_count=10&theme=cobalt)](https://github.com/yeboah326)
-
-</p>
-
-
-<!--
-**yeboah326/yeboah326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
